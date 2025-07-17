@@ -7,8 +7,8 @@ This project provides an automated system to tailor your CV and cover letter bas
 ```
 cv_tailoring_project/
 ├── data/                   # Directory for storing CV and cover letter templates
-│   ├── Cover Letter_Imon .docx
-│   └── Imon Hosen - Resume_Template_ATS.docx
+│   ├── Cover Letter.docx
+│   └── Resume_Template_ATS.docx
 ├── notebooks/              # Jupyter notebooks for interactive usage
 │   └── cv_tailoring_system.ipynb
 ├── output/                 # Directory for storing generated documents
